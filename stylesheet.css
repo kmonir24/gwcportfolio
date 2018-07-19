@@ -1,0 +1,141 @@
+div.background {
+	background: url("background.jpg");
+	background-repeat: repeat;
+	}
+div.background marquee {
+	    color: turquoise;
+			font-size: 500%;
+	    font-family: "Courier New", monospace;
+			font-weight: bold;
+	}
+div.background a {
+	color: white;
+	font-family: "Courier New", monospace;
+	font-weight: bold;
+	text-decoration: none;
+	margin: 0px;
+	display: inline;
+	background: black;
+}
+div.background a:hover{
+		background: red;
+		color: blue;
+		text-decoration: underline;
+}
+div.background ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+ }
+div.background li {
+	margin-left: 50px;
+}
+div.transbox {
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+	margin-top: 25px;
+	display: block;
+	background-color: white;
+	opacity: 0.8;
+	padding: 1px;
+}
+
+div.transbox h2 {
+	margin: 15px;
+	font-weight: bold;
+	color: purple;
+	font-size: 250%;
+	font-family: "Courier New", monospace;
+}
+div.transbox h3 {
+	margin: 20px;
+	color: red;
+	font-size: 150%;
+	font-family: "Courier New", monospace;
+}
+
+div.transbox p {
+	margin: 10px;
+	color: black;
+	font-size: 150%;
+	font-family: "Courier New", monospace;
+	text-indent: 35px;
+	font-weight:
+}
+div.transbox img {
+	display: block;
+	margin: 50px;
+	border: 1px solid black;
+	opacity: 1.0;
+	font-family: "Courier New", monospace;
+
+}
+div.transbox ul {
+	list-style-type: none;
+	float: left;
+	font-size: 150%;
+	font-family: "Courier New", monospace;
+}
+h1 {
+	text-align: center;
+	font-weight: bold;
+	color: blue;
+	font-size: 350%;
+	font-family: "Courier New", monospace;
+}
+
+ marquee {
+	    color: turquoise;
+			font-size: 500%;
+	    font-family: "Courier New", monospace;
+			font-weight: bold;
+	}
+a {
+	color: blue;
+	font-style: normal;
+	margin: 10px;
+}
+
+h2 {
+	margin: 15px;
+	font-weight: bold;
+	color: purple;
+	font-size: 250%;
+	font-family: "Courier New", monospace;
+}
+#places {
+	margin: 50px;
+	color: lightblue;
+	font-size: 150%;
+	font-family: "Courier New", monospace;
+	font-weight: bold;
+	text-decoration: underline;
+
+}
+
+p {
+	margin: 10px;
+	color: black;
+	font-size: 150%;
+	font-family: "Courier New", monospace;
+}
+img {
+	float: center;
+	margin: 50px;
+	border: 1px solid black;
+	opacity: 1;
+
+}
+ul {
+	float: left;
+	font-size: 150%;
+	font-family: "Courier New", monospace;
+}
+h1 {
+	text-align: center;
+	font-weight: bold;
+	color: blue;
+	font-size: 350%;
+	font-family: "Courier New", monospace;
+}
